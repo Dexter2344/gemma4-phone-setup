@@ -30,7 +30,8 @@ Built and documented from Nigeria. No expensive hardware. Just open-source tools
 ## Full Guide
 
 Read the complete step-by-step tutorial on Dev.to:
-[Link to your Dev.to Gemma 4 post]
+(https://dev.to/okeke_chukwudubem_5f3bf49/i-ran-an-ai-model-on-my-phone-no-cloud-no-api-keys-just-gemma-4-and-termux-1l6h
+)
 
 ## Author
 
